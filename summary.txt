@@ -1,0 +1,126 @@
+Python --> Data structures
+Strings, Lists and tuples
+Dictionaries and Sets
+
+ctrl statements -> for, while, if, elif, and else
+keywords --> break, continue, pass
+list comprehension
+functions --> positional args, orbitrary args(*), keyword args(**), 
+default parameter
+
+functional programming constructs --> map, filter, reduce, lambda, generators
+decorators, zip
+
+Modules & packages
+Exception handling --> try, except, finally, else, raise, assert
+Regex --> find, compile, findall, group, match
+File handling --> open, with open, %%writefile
+oops --> Inheritance, polymorphism,abc, encapsulation
+Numpy --> arrays
+Pandas --> Series, Dataframes--> EDA, Cleaning, manipulation, visualisation
+(matplotlib, seaborn, ggplot2, plotly)
+
+Supervised ML
+Regression
+Classification
+
+Linear, Non-linear & ensemble
+Optimization/data preparation --> Overfitting/underfitting, Hyperparameter
+tuning, grid search, regularizations(l1,l2,l3), feature selection(k-best,
+chisquare, rfe), cross validation(k-fold), data preprocessing(standardisation, 
+normalisation), class imbalancing(SMOTE), Feature reduction (PCA, LDA)
+Unsupervised ML --> Clustering
+
+Neural networks / DNN
+ANN --> wx1+b, weights(he,glorot), bias, activation(input layers --> relu),
+activation(output layers --> relu(regression), sigmoid(binary class)
+softmax(multi class)), optimizers(gd,mini batch gd(momentum, adaptive learners,
+adam, rmsprop), loss fn(mse, binary cross entropy, categorical cross entropy),
+backpropagation(chain rule of derivatives)
+
+Tensorflow(keras) --> Sequential, dense, Static, t2(dynamic graph, autograph)
+
+Pytorch --> Autograd(dynamic graph),nn.module
+
+Optmization --> dropout,batch normalisation, early stopping,
+grid search, optuna(hyper parameter tuning), learning schedulers(step fn,
+reduce lr on plateu)
+
+Ipex, sklearn
+ 
+CNN --> Convolution process, filters, pooling, flattening, padding,
+image augmentation(rotate,flipping, shearing, blurring), Object detection(YOLO)
+
+RNN --> Learning based on time steps, vanishing/exploding gradients
+LSTM/GRU --> Forget, update gate
+
+NLP --> tokens, stemming, lemma, pos, NER, stopwords, bi/tri/n grams,
+BOW(count vectoriser), tf/idf, word2vec (embedding --> cbow,skipgram), glove,
+Topic modeling (LDA)
+
+Transformers --> 
+
+Encoders --> Embeddings, POS emb, Multi head attention
+(self attention matrix --> q,k,v) --> (sentiment analysis, classification)
+Decoders --> + Softmax --> generation
+
+Encoders --> bert
+decoders --> gpt
+encoder+decoder --> t5, bart
+huggingface transformers --> bert, gpt, embeddings
+Finetuning --> full finetuning, PEFT(LORA (rank matrix), QLORA),
+GPU --> cuda, cudnn
+Prompts --> zero shot, one shot, few shot, cot, self consistancy,
+your role, system's role, tg, output format, goal
+Eval --> rogue-1, rouge-l, bleu, bertscore, ragas
+
+Ollama --> generate, chat, client api, temperature, context window, 
+stream, invoke
+
+Langchain --> prompt template (template=template, from_template, from_examples,
+from_messaging)
+Pydantic parsers --> data validation, output parsing
+Runnables/chains --> prompt|llms|parsers
+Memory --> full memory, Entity, summary memory, Knowledge graph
+Agent
+Tools --> @tools
+Callbacks --> logs, retries
+
+RAGS --> Chunking, embedding, vectore stores, retrievers
+
+Agentic AI --> langgraph (state), nodes & edges
+
+Fastapi --> asynchronous, get , post, history
+
+Function app, using az functions as tools, foundry, guard rails
+
+MCP
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
